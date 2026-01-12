@@ -1,5 +1,5 @@
-# C-项目名称： Shadow Hunt
-软件环境： Windows / Linux
+# C-项目名称： 潜行游戏
+软件环境： Windows 
 硬件环境： 通用计算机（支持图形显示）
 开发工具： Visual Studio / GCC + SDL2 库
 
